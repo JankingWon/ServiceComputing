@@ -1,0 +1,9 @@
+./selpg: not enough arguments
+Sample Usage:	selpg -s (Number) -e (Number) [-l (Number)] [-f] [filename]
+
+	-s (Number)	Start Page Number
+	-e (Number)	End Page Number
+	[-l (Number)]	Lines one page(Optional) Default 10
+	[-f]		Use form feed (Optional)
+	[filename]	Read from file Default stdin
+
